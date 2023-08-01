@@ -21,6 +21,7 @@ header {
 
 h1 {
     margin-bottom: 10px;
+    color: #0066cc; /* Blue color for the main title */
 }
 
 main {
@@ -33,6 +34,8 @@ article {
 
 h2 {
     margin-bottom: 10px;
+    color: #00cc66; /* Green color for subheadings */
+    text-align: center; /* Center align the subheadings */
 }
 
 footer {
@@ -67,12 +70,15 @@ footer p {
     margin-top: 0;
 }
 
+/* Additional styling for the references section */
 .references {
     margin-top: 40px;
 }
 
 .references h2 {
     margin-bottom: 20px;
+    color: #ff3300; /* Red color for the references heading */
+    text-align: center; /* Center align the references heading */
 }
 
 .references ol {

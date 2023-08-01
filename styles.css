@@ -45,3 +45,40 @@ footer p {
     font-size: 14px;
     color: #777;
 }
+
+/* Additional styling for the essay content */
+.abstract {
+    margin-bottom: 40px;
+}
+
+.essay {
+    line-height: 1.8;
+}
+
+.essay p {
+    margin-bottom: 15px;
+}
+
+.essay h2 {
+    margin-bottom: 20px;
+}
+
+.essay h2:first-child {
+    margin-top: 0;
+}
+
+.references {
+    margin-top: 40px;
+}
+
+.references h2 {
+    margin-bottom: 20px;
+}
+
+.references ol {
+    padding-left: 20px;
+}
+
+.references li {
+    margin-bottom: 10px;
+}
